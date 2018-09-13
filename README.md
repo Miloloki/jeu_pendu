@@ -1,6 +1,6 @@
 # jeu_pendu
 
-Début d'un jeu de pendu, à terminer, encore beaucoup d'erreur
+Début d'un jeu de pendu, à terminer, encore beaucoup d'erreur : on va chercher le mot dans un fichier "données"
 
 Une petite interface graphique avec Tkinterpour s'entrainer
 
